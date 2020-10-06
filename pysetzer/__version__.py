@@ -1,0 +1,5 @@
+__title__ = 'pysetzer'
+__description__ = 'Python client for Setzer'
+__version__ = '1.0.0'
+__author__ = 'monolithos'
+__author_email__ = 'capitan.develop@gmail.com'
